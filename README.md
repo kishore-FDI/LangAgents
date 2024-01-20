@@ -8,17 +8,14 @@ LangChain is an innovative project designed for creating AI agents using Google 
 
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Getting Started](#getting-started)
-4. [Usage in Google Colab](#usage-in-google-colab)
-5. [Components](#components)
+3. [Components](#components)
    - [Language Models (LLM)](#language-models-llm)
    - [Search Engine Tool](#search-engine-tool)
    - [Python REPL Tool](#python-repl-tool)
    - [Vector Retrieval Tool](#vector-retrieval-tool)
    - [Custom Defined Tools](#custom-defined-tools)
-6. [Automation Capabilities](#automation-capabilities)
-7. [Contributing](#contributing)
-8. [License](#license)
+5. [Automation Capabilities](#automation-capabilities)
+6. [License](#license)
 
 ## Introduction
 
@@ -36,13 +33,6 @@ LangChain, tailored for Google Colab, offers a unique approach to AI agent devel
 
 - **Custom Defined Tools:** Define and deploy custom tools effortlessly in the Google Colab environment to automate a wide array of tasks.
 
-## Getting Started
-
-To get started with LangChain in Google Colab, refer to the [Getting Started Guide](docs/colab/getting-started.md) for detailed instructions on setup and usage.
-
-## Usage in Google Colab
-
-Explore the [Google Colab Usage Guide](docs/colab/usage.md) for comprehensive information on utilizing LangChain features within the Google Colab environment.
 
 ## Components
 
@@ -69,10 +59,6 @@ Define and deploy custom tools effortlessly in the Google Colab environment, all
 ## Automation Capabilities
 
 LangChain, in conjunction with Google Colab, enables users to automate a wide range of tasks seamlessly. From natural language understanding to intricate data manipulations, LangChain adapts to diverse workflows within the collaborative coding environment.
-
-## Contributing
-
-Contributions to LangChain for Google Colab are welcomed. Check the [Contribution Guidelines](docs/colab/CONTRIBUTING.md) for details on how to contribute.
 
 ## License
 
